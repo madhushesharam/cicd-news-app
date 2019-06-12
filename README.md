@@ -1,4 +1,6 @@
-# cicd-sample APP
+# cicd-sample app
+
+https://travis-ci.org/madhushesharam/cicd-news-app.svg?branch=master
 
 Sample APP Running at 
 https://radiant-ridge-25486.herokuapp.com/
