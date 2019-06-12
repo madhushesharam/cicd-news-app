@@ -1,6 +1,7 @@
 # cicd-sample app
 
-https://travis-ci.org/madhushesharam/cicd-news-app.svg?branch=master
+[![Build Status](https://travis-ci.org/madhushesharam/cicd-news-app.svg)](https://travis-ci.org/madhushesharam/cicd-news-app.svg)
+
 
 Sample APP Running at 
 https://radiant-ridge-25486.herokuapp.com/
