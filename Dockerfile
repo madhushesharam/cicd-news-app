@@ -5,3 +5,4 @@ RUN pip install -r /src/requirements.txt
 COPY app.py /src
 COPY newsAPP /src/newsAPP
 CMD ["python", "/src/app.py"]
+

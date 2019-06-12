@@ -7,8 +7,7 @@ from datetime import datetime, timedelta
 class NewsAPI:
     def __init__(self):
          pass
-               
-       
+                      
     def getNews(self):
         newsapi = NewsApiClient(api_key = os.environ["API_KEY"])
         all_articles = newsapi.get_everything(q = 'technology',
