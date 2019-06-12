@@ -1,6 +1,6 @@
 # cicd-sample app
 
-[![Build Status](https://travis-ci.org/madhushesharam/cicd-news-app.svg)](https://travis-ci.org/madhushesharam/cicd-news-app.svg)
+[![Build Status](https://travis-ci.org/madhushesharam/cicd-news-app.svg)](https://travis-ci.org/madhushesharam/cicd-news-app)
 
 
 Sample APP Running at 
