@@ -15,14 +15,8 @@ https://radiant-ridge-25486.herokuapp.com/
    5) Create a Docker image for the  app
    6) Containerize your web app with docker
    7) Deploy to Docker Hub
-   8) In Travis Set 
-         '''-Environment Variables''' 
-         -DOCKER_EMAIL  
-         -DOCKER_PASS  
-          DOCKER_USER  
- 
-
-    9) Push the Docker image to Docker Hub
+   8) In Travis Set -Environment Variables -DOCKER_EMAIL   -DOCKER_PASS   DOCKER_USER  
+   9) Push the Docker image to Docker Hub
    10) Deploy the Docker image to Heroku (Part of Delivery )
 
    ## heroku Deployment
@@ -44,13 +38,16 @@ https://radiant-ridge-25486.herokuapp.com/
 
 
 
-
-
 ## Built With
    1) Python/Flask
    2) Travis CI
-   3) Docker
+   3) Docker/ Docker Hub
    4) Heroku
    
 
-
+## TODO
+   1) Add Load/Performance Tests.
+   2) Enhance APP to have in memory DB.
+   3) Monitoring. 
+   
+   
